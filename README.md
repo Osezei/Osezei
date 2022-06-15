@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=osezei&theme=dark)](https://git.io/streak-stats)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=osezei&show_icons=true&locale=en&layout=compact" alt="osezei" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=osezei&show_icons=true&theme=dark&locale=en&layout=compact" alt="osezei" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
