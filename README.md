@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 <!-- - 📄 Know about my experiences [resume](resume) -->
 
-- I am currently working on my portfolio
+-Portfolio - http://osezei-portfolio.vercel.app/
 
 
 <h3 align="left">Languages and Tools:</h3>
